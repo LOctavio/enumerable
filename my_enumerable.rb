@@ -6,4 +6,12 @@ module MyEnumerable
     end
     value
   end
+
+  def any?
+    value = false
+    each do |item|
+      value = true if yield item
+    end
+    value
+  end
 end

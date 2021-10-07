@@ -23,7 +23,7 @@ We implemented MyEnumerable module inside MyList class
 
 👤 **Miguelangel Escorche**
 
-- GitHub: [LOctavio](https://github.com/miguelesco)
+- GitHub: [miguelesco](https://github.com/miguelesco)
 
 ## 🤝 Contributing
 

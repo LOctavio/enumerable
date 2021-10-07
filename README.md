@@ -21,6 +21,10 @@ We implemented MyEnumerable module inside MyList class
 - Twitter: [@Octavio_ram431](https://twitter.com/Octavio_ram431)
 - LinkedIn: [Luis Octavio Ramirez Cruz](https://www.linkedin.com/in/luis-octavio-ramirez-cruz/)
 
+👤 **Miguelangel Escorche**
+
+- GitHub: [LOctavio](https://github.com/miguelesco)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!

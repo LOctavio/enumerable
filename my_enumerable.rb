@@ -20,6 +20,6 @@ module MyEnumerable
     each do |item|
       arr.push(item) if yield item
     end
-    arr 
+    arr
   end
 end

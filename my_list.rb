@@ -8,7 +8,9 @@ class MyList
   end
 
   def each
+    # rubocop:disable Style/For
     for i in 0..@list.length - 1
+      # rubocop:enable Style/For
       yield @list[i]
     end
     @list
